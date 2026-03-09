@@ -530,3 +530,14 @@ section {
 .contact-info .info-item:hover {
     color: var(--primary-color);
 }
+
+/* Recruitment CTA */
+.join-cta {
+    background: linear-gradient(45deg, var(--primary-color), var(--secondary-color));
+    padding: 1rem 1.5rem;
+    border-radius: 10px;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 1.5rem;
+    box-shadow: 0 4px 15px rgba(0, 212, 255, 0.3);
+}
